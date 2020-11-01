@@ -20,6 +20,9 @@
 | Sound Card          | Realtek ALC892 (layout-id:1)               |
 
 
+Please generate SMBIOS !!!
+
+
 
 ## Not Woriking
 - Microphone Input not working with Ryzentosh 
