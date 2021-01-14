@@ -6,7 +6,7 @@
 
 
 <B>- Hackintosh Catalina 10.15.7 (OC 0.6.2 or 0.6.3) 
-- Big Sur 11.0 Beta (OC 0.6.3 and 0.6.5) on Ryzen</B>
+- Big Sur 11.1 (OC 0.6.3 and 0.6.5) on Ryzen</B>
 
 ## Configuration on Opencore 
 
